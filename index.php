@@ -18,7 +18,7 @@
             <div id="ground"></div>
         </div>
         <div id="text">
-            <h1>HELLO WORLD</h1>
+            <h1>M8AC7</h1>
             <h2> PHP: <?php echo phpversion()?> </h2>
             <?php 
             if (ini_get('xdebug.remote_enable') != ''){
